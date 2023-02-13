@@ -1,0 +1,38 @@
+.wrapper{
+
+    height: 100vh;
+}
+ #blokId{
+
+    width: 500px;
+    padding: 50px;
+    height: min-content;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(238, 241, 243);
+    margin-top: 2%;
+    
+
+}
+
+#LoginImageId1{
+
+border-radius: 15%;
+max-width: 153Px;
+margin-left: 46%;
+margin-top: 5%;
+
+}
+
+#loginTextId{
+
+margin-left: 38%;
+margin-top: 2%;
+margin-bottom: -2%;
+text-decoration: underline;
+text-decoration: blue;
+text-shadow: blue;
+text-shadow: 4px 4px 8px blue;
+font-size: larger;
+font-family: initial;
+}
